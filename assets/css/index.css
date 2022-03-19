@@ -1,0 +1,18 @@
+body {
+    background-color: violet;
+}
+
+h1 {
+    color: blue;
+}
+
+#input {
+    padding-bottom: 1rem;
+}
+
+#output {
+    background-color: white;
+    border: 1px solid darkgray;
+    display: block;
+    width: 30%;
+}
